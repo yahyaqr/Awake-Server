@@ -13,27 +13,52 @@
       "brain": 10,
       "fire": 15,
       "coins": 150
+    },
+    {
+      "fullname": "Yahya Aqrom",
+      "email": "a@a.com",
+      "password": "capcip",
+      "age": "24",
+      "gender": "Male",
+      "id": 2
     }
   ],
   "reactionTimes": [
     {
       "userId": 1,
-      "data": [106, 114, 122],
+      "data": [
+        106,
+        114,
+        122
+      ],
       "id": 1
     },
     {
       "userId": 1,
-      "data": [1596, 367, 472],
+      "data": [
+        1596,
+        367,
+        472
+      ],
       "id": 2
     },
     {
       "userId": 1,
-      "data": [1128, 166, 514, 1444],
+      "data": [
+        1128,
+        166,
+        514,
+        1444
+      ],
       "id": 3
     },
     {
       "userId": 1,
-      "data": [878, 481, 178],
+      "data": [
+        878,
+        481,
+        178
+      ],
       "id": 4
     }
   ]
